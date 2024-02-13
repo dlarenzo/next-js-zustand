@@ -1,3 +1,26 @@
+###  NEXT JS ZUSTAND PROJECT
+
+This project is a Kanban Board created with nextjs and zustand.
+
+You are able to create a todo list of items and then move through through states such as TOD, IN PROGRESS and DONE.  This also features the ability to delete these items.
+
+Another feature is using storage so that when the page is refreshed items are not lost.
+
+### RUN PROJECT
+download file from GitHub
+
+Unzip file and load into coder of your chose
+
+Open terminal and change directory to folder
+
+In terminal run "npm i" (without the parenthesis) to install all the dependencies
+
+Afterwards use "npm run dev" (without the parenthesis)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
